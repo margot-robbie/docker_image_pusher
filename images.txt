@@ -6,4 +6,4 @@
 # wurstmeister/kafka
 # provectuslabs/kafka-ui
 # nginx
-microsoft/mssql-server-linux
+mcr.microsoft.com/mssql/server:2012-latest
