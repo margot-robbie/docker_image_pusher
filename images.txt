@@ -6,4 +6,5 @@
 # wurstmeister/kafka
 # provectuslabs/kafka-ui
 # nginx
-mcr.microsoft.com/mssql/server
+# mcr.microsoft.com/mssql/server
+homeassistant/home-assistant
