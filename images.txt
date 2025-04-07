@@ -7,4 +7,5 @@
 # provectuslabs/kafka-ui
 # nginx
 # mcr.microsoft.com/mssql/server
-homeassistant/home-assistant
+# homeassistant/home-assistant
+hectorqin/reader
