@@ -8,4 +8,5 @@
 # nginx
 # mcr.microsoft.com/mssql/server
 # homeassistant/home-assistant
-hectorqin/reader
+# hectorqin/reader
+eclipse-mosquitto:latest
