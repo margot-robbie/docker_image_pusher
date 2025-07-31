@@ -10,4 +10,4 @@
 # homeassistant/home-assistant
 # hectorqin/reader
 # eclipse-mosquitto:latest
-openspug/spug:3.2.2
+openspug/spug-service:latest
