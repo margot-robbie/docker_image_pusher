@@ -9,4 +9,5 @@
 # mcr.microsoft.com/mssql/server
 # homeassistant/home-assistant
 # hectorqin/reader
-eclipse-mosquitto:latest
+# eclipse-mosquitto:latest
+openspug/spug:3.2.2
