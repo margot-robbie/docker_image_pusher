@@ -5,11 +5,10 @@
 # wurstmeister/zookeeper
 # wurstmeister/kafka
 # provectuslabs/kafka-ui
-# nginx
+nginx
 # mcr.microsoft.com/mssql/server
 # homeassistant/home-assistant
 # hectorqin/reader
 # eclipse-mosquitto:latest
 # openspug/spug-service:latest
 # mariadb:10.8.2
-jc21/nginx-proxy-manager:latest
