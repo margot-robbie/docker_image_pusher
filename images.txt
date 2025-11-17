@@ -12,4 +12,5 @@
 # eclipse-mosquitto:latest
 # openspug/spug-service:latest
 # mariadb:10.8.2
-n8nio/n8n
+# n8nio/n8n
+adguard/adguardhome
