@@ -14,4 +14,5 @@
 # n8nio/n8n
 # adguard/adguardhome
 # hectorqin/reader
-binaryify/netease_cloud_music_api
+# binaryify/netease_cloud_music_api
+minio:latest
