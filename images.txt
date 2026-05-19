@@ -15,4 +15,5 @@
 # adguard/adguardhome
 # hectorqin/reader
 # binaryify/netease_cloud_music_api
-minio/minio:latest
+# minio/minio:latest
+aozakiaoko/go-wecomchan:v2
