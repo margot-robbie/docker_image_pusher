@@ -16,4 +16,4 @@
 # hectorqin/reader
 # binaryify/netease_cloud_music_api
 # minio/minio:latest
-cloverzrg/wechat-work-message-push-go:latest
+mysql:5.7.22
