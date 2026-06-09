@@ -16,4 +16,4 @@
 # hectorqin/reader
 # binaryify/netease_cloud_music_api
 # minio/minio:latest
-mysql:5.7.22
+node:20-alpine
