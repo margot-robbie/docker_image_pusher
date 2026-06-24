@@ -16,4 +16,5 @@
 # hectorqin/reader
 # binaryify/netease_cloud_music_api
 # minio/minio:latest
-node:20-alpine
+# node:20-alpine
+smdk000/ipad860:latest
