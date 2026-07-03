@@ -17,4 +17,5 @@
 # binaryify/netease_cloud_music_api
 # minio/minio:latest
 # node:20-alpine
-smdk000/ipad860:latest
+# smdk000/ipad860:latest
+smallfawn/wechatserver:latest
