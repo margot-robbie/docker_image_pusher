@@ -19,3 +19,4 @@
 # node:20-alpine
 # smdk000/ipad860:latest
 smallfawn/wechatserver:latest
+
