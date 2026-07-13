@@ -18,5 +18,4 @@
 # minio/minio:latest
 # node:20-alpine
 # smdk000/ipad860:latest
-mongo:latest
-# alvistack/mitmproxy-10.4:latest
+alvistack/mitmproxy-10.4:latest
