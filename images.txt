@@ -19,4 +19,5 @@
 # node:20-alpine
 # smdk000/ipad860:latest
 # alvistack/mitmproxy-10.4:latest
-golang:1.23-alpine
+# golang:1.23-alpine
+alpine:3.21
